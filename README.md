@@ -18,7 +18,7 @@ A stylish and interactive **video playlist** web app where users can switch betw
 
 
 ## 📸 Screenshots
-![Screenshot](screenshots/demo.png)
+![Screenshot](Capture.JPG)
 
 ## 📂 How to Run
 1. **Clone the repository**  
