@@ -2,6 +2,9 @@
 
 A stylish and interactive **video playlist** web app where users can switch between videos dynamically. The UI is sleek with animations and a modern design.
 
+## 🚀 Demo
+🔗 **Live Demo:** [https://mahmoudeissam.github.io/Simple-Video-Slide/](#)
+
 ## 🌟 Features
 - 📌 **Interactive Playlist** – Click to change videos with smooth transitions.
 - 🔄 **Animated Selection** – Each selected video rotates for a cool effect.
@@ -13,8 +16,6 @@ A stylish and interactive **video playlist** web app where users can switch betw
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## 🚀 Demo
-🔗 **Live Demo:** [https://mahmoudeissam.github.io/Simple-Video-Slide/](#)
 
 ## 📸 Screenshots
 ![Screenshot](screenshots/demo.png)
