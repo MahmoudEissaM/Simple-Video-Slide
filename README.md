@@ -14,7 +14,7 @@ A stylish and interactive **video playlist** web app where users can switch betw
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ## 🚀 Demo
-🔗 **Live Demo:** [Coming Soon](#)
+🔗 **Live Demo:** [https://mahmoudeissam.github.io/Simple-Video-Slide/](#)
 
 ## 📸 Screenshots
 ![Screenshot](screenshots/demo.png)
